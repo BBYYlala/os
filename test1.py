@@ -1,1 +1,5 @@
-print("hello");
+
+
+
+int a;
+print("123");
